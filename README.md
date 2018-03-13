@@ -1,0 +1,2 @@
+# tippsy
+TipBot
